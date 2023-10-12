@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 It's been really great learning more about my computer through these modules!
+
+This is an addition to the changes from a different branch. 
